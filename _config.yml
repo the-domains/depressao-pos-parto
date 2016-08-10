@@ -1,0 +1,28 @@
+name: Depressão Pós Parto
+favicon: null
+layout_spectrum: 0.22676278790459037
+typography_spectrum: 0.5378074601758271
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.5246292597148567
+  lightness: 0.18512447667308152
+  saturation: 0.85124556790106
+  rhythmicContrast: 0.9453730499371886
+purpose: []
