@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Triste
+    id: 9b393763-6c42-4982-91c4-b392a43cf74c
+    type: content
 favicon: null
 title: Depressão Pós Parto
 description: O que vc está sentindo?
