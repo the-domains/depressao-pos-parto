@@ -4,14 +4,14 @@
         <description><![CDATA[Depressão Pós Parto]]></description>
         <link>http://depressaoposparto.com.br/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Aug 2016 20:43:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2016 20:44:21 GMT</lastBuildDate>
         <atom:link href="http://depressaoposparto.com.br/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Como você se sente hoje?]]></title>
-            <description><![CDATA[<p>Como você se sente hoje?</p>]]></description>
+            <description><![CDATA[<h1>Como você se sente hoje?</h1>]]></description>
             <link>http://depressaoposparto.com.br/como-voce-se-sente-hoje/index.html</link>
             <guid isPermaLink="false">9b393763-6c42-4982-91c4-b392a43cf74c</guid>
-            <pubDate>Wed, 10 Aug 2016 20:43:10 GMT</pubDate>
+            <pubDate>Wed, 10 Aug 2016 20:44:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
